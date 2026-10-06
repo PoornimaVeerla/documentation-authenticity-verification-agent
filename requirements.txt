@@ -1,0 +1,7 @@
+groq
+pypdf
+python-docx
+pdf2image
+pytesseract
+gradio
+Pillow
